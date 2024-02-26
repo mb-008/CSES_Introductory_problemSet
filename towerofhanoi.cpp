@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-// Recursive function to calculate src & dest
+// Recursive function to calculate src & dest for towe of hanoi
 
 void towerofhanoi(int n, int src, int help, int dest)
 {
